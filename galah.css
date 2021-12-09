@@ -1,0 +1,63 @@
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#div1{
+    position: absolute;
+    width: 12cm;
+    height: 13cm;
+    margin-top: 3.5cm;
+    margin-left: 12cm;
+    border: red solid 3px;
+    border-radius: 40px;
+
+}
+#div1:hover{
+    background-color: rgb(84, 15, 94);
+    opacity: 60%;
+}
+
+#div2{
+    position: relative;
+    width: 7cm;
+    height: 10cm;
+    margin-left: 2cm;
+    margin-top: 1.2cm;
+    letter-spacing: 1mm;
+    word-spacing: 2mm;
+    line-height: 8mm;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: larger;
+    color: whitesmoke;
+    
+}
+#a1{
+    font-family: comic sans ms;
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+#a1:hover{
+    color: red;
+    font-style: normal;
+    font-size: x-large;
+    
+}
+
+#div_contact{
+    position: absolute;
+    margin-top: 12cm;
+    margin-left: 14cm;
+    opacity: 70%;
+}
+
+#div_contact:hover{
+    opacity: 130%;
+}
+
+
+
